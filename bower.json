@@ -1,0 +1,9 @@
+{
+  "name": "requirejs-demo",
+  "private": true,
+  "dependencies": {
+    "reqwest": "~1.1.1",
+    "neat-complete": "~1.2.0"
+  },
+  "devDependencies": {}
+}
