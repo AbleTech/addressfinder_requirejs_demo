@@ -3,6 +3,13 @@
 This project is designed to simply show how AddressFinder can be included with
 an AMD library, in this case RequireJS.
 
+### Setup
+
+```
+npm install
+grunt server
+```
+
 ### Dependencies
 - [reqwest](https://github.com/ded/reqwest) - Mirco library for ajax requests.
 - [neat-complete](https://github.com/AbleTech/neat-complete) - The core
